@@ -9,7 +9,20 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+    <description>Mybatis 简单包装</description>
+
     <artifactId>simple-mybatis-wrapper</artifactId>
+
+
+
+    <dependencies>
+        <!-- mybatis 官方依赖 -->
+        <dependency>
+            <groupId>org.mybatis.spring.boot</groupId>
+            <artifactId>mybatis-spring-boot-starter</artifactId>
+            <version>${mybatis-spring-boot.version}</version>
+        </dependency>
+    </dependencies>
 
 
 </project>
