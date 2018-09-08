@@ -8,8 +8,13 @@
     <artifactId>simple-framework</artifactId>
     <packaging>pom</packaging>
     <version>1.0.0</version>
+
+    <description>企业后台快速开发框架</description>
+
     <modules>
+        <!-- 代码生成器 -->
         <module>simple-template</module>
+        <module>simple-mybatis-wrapper</module>
     </modules>
 
 

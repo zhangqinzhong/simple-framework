@@ -7,10 +7,9 @@
         <groupId>com.tpsix</groupId>
         <version>1.0.0</version>
     </parent>
-
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>simple-template</artifactId>
+    <artifactId>simple-mybatis-wrapper</artifactId>
 
 
 </project>
